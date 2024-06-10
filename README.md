@@ -23,7 +23,7 @@ When I'm not buried academic work or coding on my own projects, you'll likely fi
   <a href="https://www.instagram.com/andresparra1002?igsh=MWMwMHRmaGRvaW0xdA=="><img alt="Instagram" src="https://custom-icon-badges.demolab.com/badge/-instagram-lightcoral?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://x.com/Andrewpg29?t=k9Mh8BezcFXzEFZy7psIfg&s=09"><img alt="X" src="https://custom-icon-badges.demolab.com/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white"></a>
   <br>
-  <a href="t.me/Andrewdpg"><img alt="Telegram" src="https://custom-icon-badges.demolab.com/badge/-Telegram-skyblue?style=for-the-badge&logo=Telegram&logoColor=white"></a>
+  <a href="https://t.me/Andrewdpg"><img alt="Telegram" src="https://custom-icon-badges.demolab.com/badge/-Telegram-skyblue?style=for-the-badge&logo=Telegram&logoColor=white"></a>
   <a href="https://discord.com/users/441783523695788032"><img alt="Discord" src="https://custom-icon-badges.demolab.com/badge/-discord-rebeccapurple?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="mailto:andres.parra@u.icesi.edu.co"><img alt="Outlook" src="https://custom-icon-badges.demolab.com/badge/-outlook-royalblue?style=for-the-badge&logo=outlook&logoColor=white"></a>
   <br>
