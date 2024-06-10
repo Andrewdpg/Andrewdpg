@@ -15,7 +15,34 @@ I'm Andrés, a Systems Engineering student from Universidad Icesi in Colombia. I
 When I'm not buried academic work or coding on my own projects, you'll likely find me gaming, watching a movie or anime, or taking on coding challenges to keep my problem-solving skills sharp.
 
 <details>
-    <summary><h2> Full stats </h2></summary>
+    <summary><h2>📥 Find me at </h2></summary>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrewdpg"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/andres.parra.96780"><img alt="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/andresparra1002?igsh=MWMwMHRmaGRvaW0xdA=="><img alt="Instagram" src="https://custom-icon-badges.demolab.com/badge/-instagram-lightcoral?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/Andrewpg29?t=k9Mh8BezcFXzEFZy7psIfg&s=09"><img alt="X" src="https://custom-icon-badges.demolab.com/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white"></a>
+  <br>
+  <a href="t.me/Andrewdpg"><img alt="Telegram" src="https://custom-icon-badges.demolab.com/badge/-Telegram-skyblue?style=for-the-badge&logo=Telegram&logoColor=white"></a>
+  <a href="https://discord.com/users/441783523695788032"><img alt="Discord" src="https://custom-icon-badges.demolab.com/badge/-discord-rebeccapurple?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:andres.parra@u.icesi.edu.co"><img alt="Outlook" src="https://custom-icon-badges.demolab.com/badge/-outlook-royalblue?style=for-the-badge&logo=outlook&logoColor=white"></a>
+  <br>
+  <a href="https://youtube.com/@andrewdpg?si=qamfbvLjSZjEl8AP"><img alt="Youtube" src="https://custom-icon-badges.demolab.com/badge/-Youtube-white?style=for-the-badge&logo=Youtube&logoColor=white"></a>
+  <a href="https://music.amazon.com/profiles/s4bfefxcfzxqwu5l7r4rn6sf7y?ref=dm_ff_amazonmusic.android&ref=dm_sh_4t9SxeFHyXbxQEdc6KxoSLTIN"><img alt="Amazon Music" src="https://custom-icon-badges.demolab.com/badge/-Amazon Music-cornflowerblue?style=for-the-badge&logo=amazonmusic&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/31w5iqswuv7kfmzrkeqeeba4gvea?si=kvvwmjppRrClEavh5H-mBg"><img alt="Spotify" src="https://custom-icon-badges.demolab.com/badge/-Spotify-darkgreen?style=for-the-badge&logo=Spotify&logoColor=white"></a>
+  <br>
+  <a href="https://steamcommunity.com/profiles/76561198203346888/"><img alt="Steam" src="https://custom-icon-badges.demolab.com/badge/-steam-darkslateblue?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="https://launcher.store.epicgames.com/u/990925cf04fa4fbbaf586686aa82f3df"><img alt="Epic Games" src="https://custom-icon-badges.demolab.com/badge/-Epic Games-black?style=for-the-badge&logo=epicgames&logoColor=white"></a>
+</p>    
+</details>
+
+<details>
+    <summary><h2>💼 My tools </h2></summary>
+    
+</details>
+
+<details>
+    <summary><h2>📊 Full stats and activity </h2></summary>
     
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
