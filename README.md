@@ -12,46 +12,12 @@
 
 I'm Andrés, a Systems Engineering student from Universidad Icesi in Colombia. I was drawn here by the idea of creating things, which feels almost like a superpower, and that's what I plan to keep doing. As a developer, I would love to create solutions that can make a positive impact on people's lives, even in small ways. There's something incredibly fulfilling about transforming an idea into a real working thing through code.
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.8%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                879 commits         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.23 % 
-🌆 Daytime                1568 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   50.35 % 
-🌃 Evening                652 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.94 % 
-🌙 Night                  15 commits          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.48 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   417 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.39 % 
-Tuesday                  162 commits         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.20 % 
-Wednesday                409 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.13 % 
-Thursday                 139 commits         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.46 % 
-Friday                   305 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.79 % 
-Saturday                 418 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.42 % 
-Sunday                   1264 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.59 % 
-```
-
-
-**I Mostly Code in Java** 
-
-```text
-Java                     14 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   43.75 % 
-Scala                    8 repos             ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.00 % 
-Python                   5 repos             ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.62 % 
-JavaScript               2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.25 % 
-Dart                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.12 % 
-```
-
-
-
-
- Last Updated on 10/06/2024 02:23:03 UTC
-<!--END_SECTION:waka-->
-
 When I'm not buried academic work or coding on my own projects, you'll likely find me gaming, watching a movie or anime, or taking on coding challenges to keep my problem-solving skills sharp.
+
+<details>
+    <summary><h2> Full stats </h2></summary>
+    
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+    
+</details>
