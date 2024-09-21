@@ -45,7 +45,7 @@ When I'm not buried academic work or coding on my own projects, you'll likely fi
     <summary><h2>📊 Full stats and activity </h2></summary>
     
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.8%20million%20lines%20of%20code-blue)
 
@@ -83,7 +83,7 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 20/09/2024 18:45:42 UTC
+ Last Updated on 21/09/2024 18:43:18 UTC
 <!--END_SECTION:waka-->
     
 </details>
