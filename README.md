@@ -4,7 +4,7 @@
 </h1>
 <p align="center" style="margin-top: 0;">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=andrewdpg&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues&show=reviews&include_all_commits=true&rank_icon=percentile&bg_color=00000000">
-  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewdpg&layout=normal&hide_border=true&theme=dark&bg_color=00000000&langs_count=3&hide=css&">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewdpg&layout=normal&hide_border=true&theme=dark&bg_color=00000000&langs_count=3&hide=css&">
   <br>
 </p>
 
@@ -14,8 +14,7 @@ I'm Andrés, a Systems Engineering student from Universidad Icesi in Colombia. I
 
 When I'm not buried academic work or coding on my own projects, you'll likely find me gaming, watching a movie or anime, or taking on coding challenges to keep my problem-solving skills sharp.
 
-<details>
-    <summary><h2>📥 Find me at </h2></summary>
+<h2>📥 Find me at </h2>
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/andrewdpg"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -34,11 +33,51 @@ When I'm not buried academic work or coding on my own projects, you'll likely fi
   <a href="https://steamcommunity.com/profiles/76561198203346888/"><img alt="Steam" src="https://custom-icon-badges.demolab.com/badge/-steam-darkslateblue?style=for-the-badge&logo=steam&logoColor=white"></a>
   <a href="https://launcher.store.epicgames.com/u/990925cf04fa4fbbaf586686aa82f3df"><img alt="Epic Games" src="https://custom-icon-badges.demolab.com/badge/-Epic Games-black?style=for-the-badge&logo=epicgames&logoColor=white"></a>
 </p>    
-</details>
+
 
 <details>
-    <summary><h2>💼 My tools </h2></summary>
-    
+    <summary>
+        <h2>💼 My Tools</h2>
+    </summary>
+    <p align="center">
+  <!-- Programming Languages -->
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-00599C?style=for-the-badge&logo=c#&logoColor=white">
+  <br>
+
+  <!-- Frameworks and Libraries -->
+  <img alt="React.js" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <br>
+  
+  <!-- Databases -->
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <br>
+
+  <!-- DevOps and Tools -->
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <br>
+
+  <!-- Testing and CI/CD -->
+  <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
+  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+</p>
 </details>
 
 <details>
