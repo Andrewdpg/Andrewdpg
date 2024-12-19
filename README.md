@@ -84,7 +84,7 @@ When I'm not buried academic work or coding on my own projects, you'll likely fi
     <summary><h2>📊 Full stats and activity </h2></summary>
     
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.9%20million%20lines%20of%20code-blue)
 
@@ -122,7 +122,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 18/12/2024 18:49:06 UTC
+ Last Updated on 19/12/2024 18:46:35 UTC
 <!--END_SECTION:waka-->
     
 </details>
