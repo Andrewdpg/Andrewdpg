@@ -84,7 +84,7 @@ When I'm not buried academic work or coding on my own projects, you'll likely fi
     <summary><h2>📊 Full stats and activity </h2></summary>
     
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -122,7 +122,7 @@ Jupyter Notebook         2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 02/07/2025 18:53:09 UTC
+ Last Updated on 03/07/2025 18:52:28 UTC
 <!--END_SECTION:waka-->
     
 </details>
