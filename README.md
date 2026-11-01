@@ -1,134 +1,84 @@
-<h1 align="center">
-    <img src="https://github.com/Andrewdpg/Andrewdpg/blob/main/name.svg"/>
-    <br>Software Development Intern
-</h1>
-<p align="center" style="margin-top: 0;">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=andrewdpg&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues&show=reviews&include_all_commits=true&rank_icon=percentile&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewdpg&layout=normal&hide_border=true&theme=dark&bg_color=00000000&langs_count=3&hide=css&">
-  <br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Andrewdpg/Andrewdpg/main/name.svg" alt="Andrés Parra — Software Engineer" width="100%" />
+</div>
+
+### whoami
+
+I'm not great at this part. Ask me about architecture and I'll talk for an hour; ask me to write an intro and I'll stare at the cursor.
+
+Short version: I'm a software engineer from Cali, Colombia. I build backend systems — fintech services where the data is money and the failures are expensive, institutional platforms thousands of students depend on, and the occasional ML pipeline where "approximately right" isn't good enough.
+
+I graduated Magna Cum Laude in Software Systems Engineering from Universidad ICESI — ten semesters in nine, mostly out of impatience.
+
+### What I'm building
+
+- **SIDEA** · Universidad ICESI — the platform that follows each student through their degree and flags at-risk cases early, so support teams know where to look before it's too late. `Spring Boot` `React` `Oracle`
+- **Methodus** · contract — an adaptive ICFES prep platform built with a five-person team. I own the architecture, the release planning and the QA for the pilot. `React` `Next.js` `PostgreSQL`
+
+### Things I've built
+
+- **[Waycairn](https://github.com/Andrewdpg/waycairn)** · [npm](https://www.npmjs.com/package/waycairn) — a local-first MCP server that turns architecture docs into a byproduct of agent-assisted coding. Diagrams versioned in git, no backend, no auth, nothing to host. The idea came from being tired of documenting systems nobody reads.
+- **[txbox](https://github.com/Andrewdpg/txbox)** — a transactional inbox for at-least-once delivery in Rust. The message and the effect commit together, or neither does. It exists because I kept seeing the same duplicated-event bug in different codebases.
+- **[Pre-anesthetic screening](https://andrewpg.me/#projects)** — my thesis with Fundación Valle del Lili: an Airflow pipeline that normalizes clinical records and trains probabilistic models, plus a FastAPI service that scores patient risk in real time.
+
+Before that: fintech at **Swiset**, across 8+ services, five broker integrations and two real-time pipelines — and I spent a good part of it killing race conditions.
+
+### Off the clock
+
+AURORA has been on repeat for years. Also Tom Odell, Lewis Capaldi, Kodaline, Olivia Rodrigo — I'm a bit of a romantic underneath it all, and the music gives it away immediately.
+
+Outside of code: **The Last of Us** and the **Assassin's Creed** saga are the games I keep coming back to, and I'll watch anime of basically any genre — slice of life, shonen, isekai, romcom.
+
+I'm quieter than I sound in writing. I'd rather listen first, then say something worth saying.
+
+<p>
+  <a href="https://open.spotify.com/user/31w5iqswuv7kfmzrkeqeeba4gvea"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1A1128?style=for-the-badge&logo=spotify&logoColor=1DB954"></a>
+  <a href="https://steamcommunity.com/profiles/76561198203346888/"><img alt="Steam" src="https://img.shields.io/badge/-Steam-1A1128?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="https://discord.com/users/441783523695788032"><img alt="Discord" src="https://img.shields.io/badge/-Discord-1A1128?style=for-the-badge&logo=discord&logoColor=5865F2"></a>
 </p>
 
-### Hey there! 👋
-
-I'm Andrés, a Systems Engineering student from Universidad Icesi in Colombia. I was drawn here by the idea of creating things, which feels almost like a superpower, and that's what I plan to keep doing. As a developer, I would love to create solutions that can make a positive impact on people's lives, even in small ways. There's something incredibly fulfilling about transforming an idea into a real working thing through code.
-
-When I'm not buried academic work or coding on my own projects, you'll likely find me gaming, watching a movie or anime, or taking on coding challenges to keep my problem-solving skills sharp.
-
-<h2>📥 Find me at </h2>
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/andrewdpg"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.facebook.com/andres.parra.96780"><img alt="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/andresparra1002?igsh=MWMwMHRmaGRvaW0xdA=="><img alt="Instagram" src="https://custom-icon-badges.demolab.com/badge/-instagram-lightcoral?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://x.com/Andrewpg29?t=k9Mh8BezcFXzEFZy7psIfg&s=09"><img alt="X" src="https://custom-icon-badges.demolab.com/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white"></a>
-  <br>
-  <a href="https://t.me/Andrewdpg"><img alt="Telegram" src="https://custom-icon-badges.demolab.com/badge/-Telegram-skyblue?style=for-the-badge&logo=Telegram&logoColor=white"></a>
-  <a href="https://discord.com/users/441783523695788032"><img alt="Discord" src="https://custom-icon-badges.demolab.com/badge/-discord-rebeccapurple?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:andres.parra@u.icesi.edu.co"><img alt="Outlook" src="https://custom-icon-badges.demolab.com/badge/-outlook-royalblue?style=for-the-badge&logo=outlook&logoColor=white"></a>
-  <br>
-  <a href="https://youtube.com/@andrewdpg?si=qamfbvLjSZjEl8AP"><img alt="Youtube" src="https://custom-icon-badges.demolab.com/badge/-Youtube-white?style=for-the-badge&logo=Youtube&logoColor=white"></a>
-  <a href="https://music.amazon.com/profiles/s4bfefxcfzxqwu5l7r4rn6sf7y?ref=dm_ff_amazonmusic.android&ref=dm_sh_4t9SxeFHyXbxQEdc6KxoSLTIN"><img alt="Amazon Music" src="https://custom-icon-badges.demolab.com/badge/-Amazon Music-cornflowerblue?style=for-the-badge&logo=amazonmusic&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/31w5iqswuv7kfmzrkeqeeba4gvea?si=kvvwmjppRrClEavh5H-mBg"><img alt="Spotify" src="https://custom-icon-badges.demolab.com/badge/-Spotify-darkgreen?style=for-the-badge&logo=Spotify&logoColor=white"></a>
-  <br>
-  <a href="https://steamcommunity.com/profiles/76561198203346888/"><img alt="Steam" src="https://custom-icon-badges.demolab.com/badge/-steam-darkslateblue?style=for-the-badge&logo=steam&logoColor=white"></a>
-  <a href="https://launcher.store.epicgames.com/u/990925cf04fa4fbbaf586686aa82f3df"><img alt="Epic Games" src="https://custom-icon-badges.demolab.com/badge/-Epic Games-black?style=for-the-badge&logo=epicgames&logoColor=white"></a>
-</p>    
-
-
 <details>
-    <summary>
-        <h2>💼 My Tools</h2>
-    </summary>
-    <p align="center">
-  <!-- Programming Languages -->
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-00599C?style=for-the-badge&logo=c#&logoColor=white">
-  <br>
+<summary><b>Toolbox</b></summary>
+<br>
 
-  <!-- Frameworks and Libraries -->
-  <img alt="React.js" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <br>
-  
-  <!-- Databases -->
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <br>
+<img alt="Java" src="https://img.shields.io/badge/-Java-1A1128?style=for-the-badge&logo=openjdk&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/-Python-1A1128?style=for-the-badge&logo=python&logoColor=3776AB">
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-1A1128?style=for-the-badge&logo=typescript&logoColor=3178C6">
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-1A1128?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-1A1128?style=for-the-badge&logo=rust&logoColor=white">
+<img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-1A1128?style=for-the-badge&logo=springboot&logoColor=6DB33F">
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-1A1128?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E">
+<img alt="NestJS" src="https://img.shields.io/badge/-NestJS-1A1128?style=for-the-badge&logo=nestjs&logoColor=E0234E">
+<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-1A1128?style=for-the-badge&logo=fastapi&logoColor=009688">
+<img alt="Django" src="https://img.shields.io/badge/-Django-1A1128?style=for-the-badge&logo=django&logoColor=44B78B">
+<br>
+<img alt="React" src="https://img.shields.io/badge/-React-1A1128?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-1A1128?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img alt="Vue" src="https://img.shields.io/badge/-Vue-1A1128?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-1A1128?style=for-the-badge&logo=flutter&logoColor=02569B">
+<img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-1A1128?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1A1128?style=for-the-badge&logo=postgresql&logoColor=4169E1">
+<img alt="Oracle" src="https://img.shields.io/badge/-Oracle-1A1128?style=for-the-badge&logo=oracle&logoColor=F80000">
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1A1128?style=for-the-badge&logo=mysql&logoColor=4479A1">
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-1A1128?style=for-the-badge&logo=mongodb&logoColor=47A248">
+<br>
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-1A1128?style=for-the-badge&logo=docker&logoColor=2496ED">
+<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-1A1128?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
+<img alt="AWS" src="https://img.shields.io/badge/-AWS-1A1128?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
+<img alt="Terraform" src="https://img.shields.io/badge/-Terraform-1A1128?style=for-the-badge&logo=terraform&logoColor=7B42BC">
+<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-1A1128?style=for-the-badge&logo=jenkins&logoColor=white">
+<img alt="Airflow" src="https://img.shields.io/badge/-Airflow-1A1128?style=for-the-badge&logo=apacheairflow&logoColor=017CEE">
+<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-1A1128?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
+<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-1A1128?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">
 
-  <!-- DevOps and Tools -->
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <br>
+</details>
 
-  <!-- Testing and CI/CD -->
-  <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
-  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+### Find me
+
+<p>
+  <a href="https://www.linkedin.com/in/andrewdpg"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1A1128?style=for-the-badge&logo=linkedin&logoColor=9B76D3"></a>
+  <a href="https://andrewpg.me"><img alt="Portfolio" src="https://img.shields.io/badge/-andrewpg.me-1A1128?style=for-the-badge&logo=googlechrome&logoColor=9B76D3"></a>
+  <a href="mailto:andres.parra@andrewpg.me"><img alt="Email" src="https://img.shields.io/badge/-Email-1A1128?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
 </p>
-</details>
 
-<details>
-    <summary><h2>📊 Full stats and activity </h2></summary>
-    
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.87%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1038 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.40 % 
-🌆 Daytime                4255 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   46.72 % 
-🌃 Evening                3264 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.84 % 
-🌙 Night                  551 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.05 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   1050 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.53 % 
-Tuesday                  621 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.82 % 
-Wednesday                811 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.90 % 
-Thursday                 1153 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.66 % 
-Friday                   1304 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.32 % 
-Saturday                 2488 commits        ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.32 % 
-Sunday                   1681 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.46 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               17 repos            ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.64 % 
-Python                   10 repos            ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.49 % 
-Go                       8 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.59 % 
-Rust                     3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.35 % 
-HTML                     3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.35 % 
-```
-
-
-
-
- Last Updated on 31/10/2026 21:51:09 UTC
-<!--END_SECTION:waka-->
-    
-</details>
+Most of what I build comes down to the same thing: staying curious, wanting it to actually matter, and making sure the people who bet on me don't regret it.

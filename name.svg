@@ -1,66 +1,96 @@
-<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				@keyframes gradientText {
-				0% {
-				background-position: 0% 50%;
-				}
-				50% {
-				background-position: 100% 50%;
-				}
-				100% {
-				background-position: 0% 50%;
-				}
-				}
-				.snowflake {
-				color: #fff;
-				font-size: 0.5em;
-				font-family: Arial;
-				text-shadow: 10px 10px 10px #000;
-				}
-				h1 {
-				font-family: 'Inter',
-				-apple-system,
-				BlinkMacSystemFont,
-				'Segoe UI',
-				'Roboto',
-				'Oxygen',
-				'Ubuntu',
-				'Cantarell',
-				'Fira Sans',
-				'Droid Sans',
-				'Helvetica Neue',
-				sans-serif;
-				margin: 0;
-				font-size: 4.5em;
-				font-weight: 900;
-				letter-spacing: -.030em;
-				text-align: center;
-				background: -webkit-linear-gradient(right,#020024 0%, #059ce3 30%, #2b2bf5 50%,
-				#059ce3 70%, #020024 100%);
-				background: linear-gradient(270deg,#020024 0%, #059ce3 30%, #2b2bf5 50%, #059ce3
-				70%, #020024 100%);
-				background-size: 160%;
-				background-clip: text;
-				-webkit-background-clip: text;
-				-webkit-text-fill-color: transparent;
-				-webkit-animation: gradientText 10s ease infinite;
-				animation: gradientText 8s ease infinite;
-				}
-				@-webkit-keyframes snowflakes-fall{0%{top:-10%}100%{top:100%}}@-webkit-keyframes
-				snowflakes-shake{0%{-webkit-transform:translateX(0px);transform:translateX(0px)}50%{-webkit-transform:translateX(80px);transform:translateX(80px)}100%{-webkit-transform:translateX(0px);transform:translateX(0px)}}@keyframes
-				snowflakes-fall{0%{top:-10%}100%{top:100%}}@keyframes
-				snowflakes-shake{0%{transform:translateX(0px)}50%{transform:translateX(80px)}100%{transform:translateX(0px)}}.snowflake{position:fixed;top:-10%;z-index:9999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:default;-webkit-animation-name:snowflakes-fall,snowflakes-shake;-webkit-animation-duration:10s,3s;-webkit-animation-timing-function:linear,ease-in-out;-webkit-animation-iteration-count:infinite,infinite;-webkit-animation-play-state:running,running;animation-name:snowflakes-fall,snowflakes-shake;animation-duration:10s,3s;animation-timing-function:linear,ease-in-out;animation-iteration-count:infinite,infinite;animation-play-state:running,running}.snowflake:nth-of-type(0){left:1%;-webkit-animation-delay:0s,0s;animation-delay:0s,0s}.snowflake:nth-of-type(1){left:10%;-webkit-animation-delay:1s,1s;animation-delay:1s,1s}.snowflake:nth-of-type(2){left:20%;-webkit-animation-delay:6s,.5s;animation-delay:6s,.5s}.snowflake:nth-of-type(3){left:30%;-webkit-animation-delay:4s,2s;animation-delay:4s,2s}.snowflake:nth-of-type(4){left:40%;-webkit-animation-delay:2s,2s;animation-delay:2s,2s}.snowflake:nth-of-type(5){left:50%;-webkit-animation-delay:8s,3s;animation-delay:8s,3s}.snowflake:nth-of-type(6){left:60%;-webkit-animation-delay:6s,2s;animation-delay:6s,2s}.snowflake:nth-of-type(7){left:70%;-webkit-animation-delay:2.5s,1s;animation-delay:2.5s,1s}.snowflake:nth-of-type(8){left:80%;-webkit-animation-delay:1s,0s;animation-delay:1s,0s}.snowflake:nth-of-type(9){left:90%;-webkit-animation-delay:3s,1.5s;animation-delay:3s,1.5s}
-			</style>
-			<h1>Andrés Parra</h1>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-		</div>
-	</foreignObject>
+<svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Andrés Parra — Software Engineer">
+  <defs>
+    <text id="nameText" x="42" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="-2.4">Andrés Parra</text>
+
+    <linearGradient id="nameGrad" x1="44" y1="92" x2="430" y2="142" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D8C2F8"/>
+      <stop offset="0.45" stop-color="#9B76D3"/>
+      <stop offset="1" stop-color="#6F4BAE"/>
+    </linearGradient>
+
+    <linearGradient id="shine" x1="-260" y1="0" x2="-120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      <animate attributeName="x1" values="-260;760;760" keyTimes="0;0.32;1" dur="9s" repeatCount="indefinite" begin="1.2s"/>
+      <animate attributeName="x2" values="-120;900;900" keyTimes="0;0.32;1" dur="9s" repeatCount="indefinite" begin="1.2s"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="44" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9B76D3" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#9B76D3" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop stop-color="#9B76D3" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#9B76D3" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="180%">
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+
+    <filter id="textGlow" x="-25%" y="-50%" width="150%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="240" rx="18" fill="#171021" filter="url(#shadow)"/>
+  <rect x="0.5" y="0.5" width="899" height="239" rx="17.5" stroke="#9B76D3" stroke-opacity="0.26"/>
+
+  <ellipse cx="820" cy="30" rx="280" ry="190" fill="url(#glow)">
+    <animate attributeName="cx" values="820;740;820" dur="16s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="30;70;30" dur="16s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <text x="44" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="3.6" fill="#9B76D3">SOFTWARE ENGINEER · CALI, COLOMBIA</text>
+
+  <use href="#nameText" fill="#9B76D3" opacity="0.55" filter="url(#textGlow)"/>
+  <use href="#nameText" fill="url(#nameGrad)"/>
+  <use href="#nameText" fill="url(#shine)"/>
+
+  <line x1="44" y1="158" x2="560" y2="158" stroke="url(#rule)" stroke-width="1"/>
+  <line x1="44" y1="158" x2="560" y2="158" stroke="#D9C6F7" stroke-width="1.4" stroke-dasharray="54 482" stroke-dashoffset="536" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" values="536;0" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.12;0.8;1" dur="6.5s" repeatCount="indefinite"/>
+  </line>
+
+  <text x="44" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" fill="#A79FBA">I build the parts nobody notices until they break.</text>
+
+  <g stroke="#9B76D3" stroke-opacity="0.45" stroke-width="1.2">
+    <line x1="676" y1="102" x2="736" y2="148"/>
+    <line x1="750" y1="102" x2="750" y2="148"/>
+    <line x1="824" y1="102" x2="764" y2="148"/>
+  </g>
+
+  <g fill="#D9C6F7">
+    <circle r="2.2">
+      <animateMotion dur="2.6s" repeatCount="indefinite" begin="0s" path="M676,102 L736,148"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.6s" repeatCount="indefinite" begin="0s"/>
+    </circle>
+    <circle r="2.2">
+      <animateMotion dur="2.6s" repeatCount="indefinite" begin="0.9s" path="M750,102 L750,148"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.6s" repeatCount="indefinite" begin="0.9s"/>
+    </circle>
+    <circle r="2.2">
+      <animateMotion dur="2.6s" repeatCount="indefinite" begin="1.8s" path="M824,102 L764,148"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.6s" repeatCount="indefinite" begin="1.8s"/>
+    </circle>
+  </g>
+
+  <g stroke="#9B76D3" stroke-width="1.2">
+    <rect x="650" y="70" width="52" height="32" rx="6" stroke-opacity="0.55">
+      <animate attributeName="stroke-opacity" values="0.4;0.95;0.4" dur="5s" repeatCount="indefinite" begin="0s"/>
+    </rect>
+    <rect x="724" y="70" width="52" height="32" rx="6" stroke-opacity="0.55">
+      <animate attributeName="stroke-opacity" values="0.4;0.95;0.4" dur="5s" repeatCount="indefinite" begin="1.6s"/>
+    </rect>
+    <rect x="798" y="70" width="52" height="32" rx="6" stroke-opacity="0.55">
+      <animate attributeName="stroke-opacity" values="0.4;0.95;0.4" dur="5s" repeatCount="indefinite" begin="3.2s"/>
+    </rect>
+  </g>
+
+  <rect x="724" y="148" width="52" height="32" rx="6" fill="#9B76D3" fill-opacity="0.22" stroke="#9B76D3" stroke-opacity="0.9" stroke-width="1.2">
+    <animate attributeName="fill-opacity" values="0.16;0.42;0.16" dur="5s" repeatCount="indefinite"/>
+  </rect>
 </svg>
