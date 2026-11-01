@@ -1,10 +1,9 @@
-<div align="center"><a href="https://andrewpg.me"><img src="https://raw.githubusercontent.com/Andrewdpg/Andrewdpg/main/assets/name.svg" width="900" alt="Andrés Parra — Software Engineer, Cali, Colombia"></a></div>
-<div align="center"><img src="https://raw.githubusercontent.com/Andrewdpg/Andrewdpg/main/assets/section-work.svg" width="900" alt="Selected work"></div>
-<div align="center"><a href="https://andrewpg.me/#projects"><img src="https://raw.githubusercontent.com/Andrewdpg/Andrewdpg/main/assets/project-sidea.svg" width="900" alt="SIDEA — student-success platform, current at Universidad ICESI"></a></div>
-<div align="center"><a href="https://andrewpg.me/#projects"><img src="https://raw.githubusercontent.com/Andrewdpg/Andrewdpg/main/assets/project-methodus.svg" width="900" alt="Methodus — adaptive exam prep, contract"></a></div>
-<div align="center"><a href="https://github.com/Andrewdpg/waycairn"><img src="https://raw.githubusercontent.com/Andrewdpg/Andrewdpg/main/assets/project-waycairn.svg" width="900" alt="Waycairn — local-first MCP server for architecture docs"></a></div>
-<div align="center"><a href="https://github.com/Andrewdpg/txbox"><img src="https://raw.githubusercontent.com/Andrewdpg/Andrewdpg/main/assets/project-txbox.svg" width="900" alt="txbox — transactional inbox in Rust"></a></div>
-<div align="center"><a href="https://andrewpg.me/#projects"><img src="https://raw.githubusercontent.com/Andrewdpg/Andrewdpg/main/assets/project-thesis.svg" width="900" alt="Pre-anesthetic screening — bachelor's thesis with Fundación Valle del Lili"></a></div>
+<div align="center"><a href="https://andrewpg.me"><img src="https://raw.githubusercontent.com/Andrewdpg/Andrewdpg/main/assets/name.svg" width="900" alt="Andrés Parra — software engineer, Cali, Colombia"></a></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Andrewdpg/Andrewdpg/main/assets/section-work.svg" width="900" alt="What I'm building"></div>
+<div align="center"><a href="https://github.com/Andrewdpg/waycairn"><img src="https://raw.githubusercontent.com/Andrewdpg/Andrewdpg/main/assets/project-waycairn.svg" width="900" alt="Waycairn — local-first MCP server that documents a codebase while you work in it"></a></div>
+<p align="center"><a href="https://www.npmjs.com/package/waycairn">npm 0.1.4 ↗</a> · <a href="https://waycairn.andrewpg.me">waycairn.andrewpg.me ↗</a></p>
+<div align="center"><a href="https://github.com/Andrewdpg/txbox"><img src="https://raw.githubusercontent.com/Andrewdpg/Andrewdpg/main/assets/project-txbox.svg" width="900" alt="txbox — transactional inbox for at-least-once delivery in Rust"></a></div>
+<p align="center"><a href="https://crates.io/crates/txbox">crates.io 0.2.0 ↗</a> · <a href="https://github.com/Andrewdpg?tab=repositories">all repositories ↗</a></p>
 <div align="center"><img src="https://raw.githubusercontent.com/Andrewdpg/Andrewdpg/main/assets/off-the-clock.svg" width="900" alt="Off the clock: AURORA, The Last of Us, Assassin's Creed, anime"></div>
 <div align="center"><img src="https://raw.githubusercontent.com/Andrewdpg/Andrewdpg/main/assets/quote.svg" width="900" alt="Most of what I build comes down to the same thing: staying curious, wanting it to actually matter, and making sure the people who bet on me don't regret it."></div>
 
@@ -29,18 +28,18 @@
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-1A1128?style=for-the-badge&logo=flutter&logoColor=02569B">
 <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-1A1128?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1A1128?style=for-the-badge&logo=postgresql&logoColor=4169E1">
-<img alt="Oracle" src="https://img.shields.io/badge/-Oracle-1A1128?style=for-the-badge&logo=oracle&logoColor=F80000">
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1A1128?style=for-the-badge&logo=mysql&logoColor=4479A1">
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-1A1128?style=for-the-badge&logo=mongodb&logoColor=47A248">
 <br>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-1A1128?style=for-the-badge&logo=docker&logoColor=2496ED">
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-1A1128?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
-<img alt="AWS" src="https://img.shields.io/badge/-AWS-1A1128?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
+<img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-1A1128?style=for-the-badge&logo=rabbitmq&logoColor=FF6600">
 <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-1A1128?style=for-the-badge&logo=terraform&logoColor=7B42BC">
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-1A1128?style=for-the-badge&logo=jenkins&logoColor=white">
 <img alt="Airflow" src="https://img.shields.io/badge/-Airflow-1A1128?style=for-the-badge&logo=apacheairflow&logoColor=017CEE">
 <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-1A1128?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
 <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-1A1128?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">
+<img alt="Git" src="https://img.shields.io/badge/-Git-1A1128?style=for-the-badge&logo=git&logoColor=F05032">
 
 </details>
 
